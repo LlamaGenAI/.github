@@ -27,7 +27,7 @@ We’re reimagining the creation process by making ACG more accessible to creato
 |---------|-------------|-------|
 | 🦙 LlamaGen | AI Comic Factory - Generate Comics with AI, Llama for Scalable Anime Generation, Image Generation, Comic Generation and Game Generation | [LlamaGen](https://github.com/LlamaGenAI/LlamaGen) |
 | 🎨 Webtoon SDK | A new medium SDK for building webtoons powered by AI. Making generative ACG AI more accessible. | [webtoon](https://github.com/llamaGenAI/webtoon) |
-| 🎨 Llama Canvas | an innovative AI-powered tool that transforms your text into visuals, making content creation fast, easy, and impactful. | [webtoon](https://github.com/llamaGenAI/LlamaCanvas) |
+| 🎨 Llama Canvas | an innovative AI-powered tool that transforms your text into visuals, making content creation fast, easy, and impactful. | [LlamaCanvas](https://github.com/llamaGenAI/LlamaCanvas) |
 | 🚀 LlamaGen API | REST API for our AI Comic Factory - Generate comics, anime, images, and games with AI. | [llamagenai-openapi](https://github.com/LlamaGenAI/llamagenai-openapi) |
 | 📝 Note AI | An open-source Notion-style WYSIWYG editor with AI-powered autocompletions. | [note-ai](https://github.com/LlamaGenAI/note-ai) |
 
